@@ -60,11 +60,13 @@ header input {
   display: flex;
   flex-wrap: wrap;
   margin-top: 40px;
+  
 }
 
 /*Card Style */
 .card {
-  width: 110px;
+  
+  width: 210px;
   overflow: hidden;
   border-radius: 2%;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
@@ -75,7 +77,7 @@ header input {
 
 .card img {
   width: 100%;
-  height: 100px;
+  height: 200px;
   margin: 0;
 }
 
